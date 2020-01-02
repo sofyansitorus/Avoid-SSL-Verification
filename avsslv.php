@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Avoid SSL Verification
  * Plugin URI:        https://github.com/sofyansitorus/Avoid-SSL-Verification
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Avoid SSL connection verification when doing development in local machine.
  * Version:           1.0.0
  * Author:            Sofyan Sitorus
  * Author URI:        https://github.com/sofyansitorus
